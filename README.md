@@ -7,7 +7,7 @@
 
 ## Why
 
-Water-development projects often arrive as heavy drilling, concrete channels, and foreign machinery that create maintenance dependence and debt. Yaku starts from the opposite premise: AI and software should **analyse, optimise and protect the infrastructure and knowledge a community already has**, not replace it. It runs on a laptop, needs no cloud, and the data never leaves the community. See [DATA_SOVEREIGNTY.md](DATA_SOVEREIGNTY.md).
+Water-development projects often arrive as heavy drilling, concrete channels and foreign-owned machinery that disrupt sacred landscapes, create maintenance dependence and impose debt. Yaku starts from a different premise: communities already have working systems of water governance, such as canals (*kanalas*), collective labour (*faina*, *ayni*) and intergenerational hydrological knowledge. Technology should adapt to those systems, not the other way around. Yaku is a non-invasive, open-source tool to analyse and protect what a community already has, and its data stays under the community's control. It runs on a laptop and needs no cloud. See [DATA_SOVEREIGNTY.md](DATA_SOVEREIGNTY.md).
 
 This is a small proof of concept. It is **not** a validated hydrological model and should be calibrated with the community that uses it.
 
